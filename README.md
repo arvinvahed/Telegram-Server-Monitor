@@ -1,4 +1,10 @@
 # 🚀 Server Monitor Bot
+<p align="center">
+  <a href="https://t.me/VPNMarket_OfficialSupport"><img src="https://img.shields.io/badge/Telegram-Group-blue.svg?style=for-the-badge&logo=telegram" alt="گروه تلگرام"></a>
+  <a href="https://www.youtube.com/@iraneclips8168/videos"><img src="https://img.shields.io/badge/YouTube-Channel-red.svg?style=for-the-badge&logo=youtube" alt="کانال یوتیوب"></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="لایسنس"></a>
+</p>
+
 **قلب تپنده سرور شما در دستان تلگرام!**
 
 ---
@@ -83,12 +89,3 @@ rm -rf telegram-monitor
 rm -f servmon.log
 echo "🗑️ Server Monitor
 
-
-## 📞 ارتباط با ما و جامعه کاربری
-
-ما همیشه آماده پاسخگویی به سوالات و شنیدن پیشنهادات شما هستیم.  
-<p align="center">
-  <a href="https://t.me/VPNMarket_OfficialSupport"><img src="https://img.shields.io/badge/Telegram-Group-blue.svg?style=for-the-badge&logo=telegram" alt="گروه تلگرام"></a>
-  <a href="https://www.youtube.com/@iraneclips8168/videos"><img src="https://img.shields.io/badge/YouTube-Channel-red.svg?style=for-the-badge&logo=youtube" alt="کانال یوتیوب"></a>
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="لایسنس"></a>
-</p>
