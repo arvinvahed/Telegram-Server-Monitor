@@ -1,0 +1,528 @@
+[2025-11-08T21:04:47+03:30] Server Monitor started.
+[2025-11-08T21:04:47+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:04:47+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:04:47+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.00 (1m), 0.00 (5m), 0.00 (15m)
+CPU: 0.0%
+RAM: 51.0%
+Disk: 97.0%
+[2025-11-08T21:04:48+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:04:48+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:04:48+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:04:49+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:04:49+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:04:49+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:04:49+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:04:49+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:04:50+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:05:17+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:05:17+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:05:17+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 1.06 (1m), 0.25 (5m), 0.09 (15m)
+CPU: 32.9%
+RAM: 51.0%
+Disk: 97.0%
+[2025-11-08T21:05:18+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:05:18+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:05:18+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:05:18+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:05:18+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:05:18+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:05:18+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:05:18+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:05:18+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:05:47+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:05:47+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:05:47+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.64 (1m), 0.23 (5m), 0.08 (15m)
+CPU: 41.9%
+RAM: 50.0%
+Disk: 97.0%
+[2025-11-08T21:05:47+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:05:47+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:05:47+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:05:47+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:05:48+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:05:48+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:05:48+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:05:48+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:05:48+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:06:17+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:06:17+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:06:17+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.39 (1m), 0.21 (5m), 0.08 (15m)
+CPU: 18.9%
+RAM: 50.0%
+Disk: 97.0%
+[2025-11-08T21:06:17+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:06:17+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:06:18+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:06:18+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:06:18+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:06:18+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:06:18+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:06:18+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:06:18+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:06:47+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:06:47+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:06:47+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.24 (1m), 0.19 (5m), 0.08 (15m)
+CPU: 41.7%
+RAM: 50.0%
+Disk: 97.0%
+[2025-11-08T21:06:48+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:06:48+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:06:48+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:06:48+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:06:48+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:06:48+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:06:48+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:06:48+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:06:48+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:07:17+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:07:17+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:07:17+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.14 (1m), 0.17 (5m), 0.08 (15m)
+CPU: 24.6%
+RAM: 49.0%
+Disk: 97.0%
+[2025-11-08T21:07:17+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:07:17+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:07:18+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:07:18+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:07:18+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:07:18+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:07:18+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:07:18+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:07:18+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:07:47+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:07:47+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:07:47+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.14 (1m), 0.17 (5m), 0.08 (15m)
+CPU: 26.0%
+RAM: 49.0%
+Disk: 97.0%
+[2025-11-08T21:07:47+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:07:47+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:07:47+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:07:47+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:07:48+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:07:48+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:07:48+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:07:48+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:07:48+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:08:17+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:08:17+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:08:17+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.08 (1m), 0.15 (5m), 0.08 (15m)
+CPU: 31.8%
+RAM: 52.0%
+Disk: 97.0%
+[2025-11-08T21:08:17+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:08:17+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:08:17+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:08:17+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:08:18+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:08:18+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:08:18+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:08:18+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:08:18+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:08:47+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:08:47+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:08:47+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.53 (1m), 0.24 (5m), 0.11 (15m)
+CPU: 46.3%
+RAM: 51.0%
+Disk: 97.0%
+[2025-11-08T21:08:48+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:08:48+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:08:48+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:08:48+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:08:48+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:08:48+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:08:48+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:08:48+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:08:48+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:09:17+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:09:17+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:09:17+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 1.35 (1m), 0.51 (5m), 0.21 (15m)
+CPU: 26.9%
+RAM: 51.0%
+Disk: 97.0%
+[2025-11-08T21:09:17+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:09:17+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:09:17+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:09:17+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:09:18+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:09:18+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:09:18+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:09:18+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:09:18+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:09:47+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:09:47+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:09:47+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.82 (1m), 0.46 (5m), 0.20 (15m)
+CPU: 10.8%
+RAM: 50.0%
+Disk: 97.0%
+[2025-11-08T21:09:49+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:09:49+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:09:49+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:09:49+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:09:49+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:09:49+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:09:50+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:09:50+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:09:50+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:10:17+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:10:17+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:10:17+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.50 (1m), 0.41 (5m), 0.19 (15m)
+CPU: 18.2%
+RAM: 51.0%
+Disk: 97.0%
+[2025-11-08T21:10:17+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:10:17+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:10:18+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:10:18+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:10:18+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:10:18+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:10:18+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:10:18+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:10:18+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:10:47+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:10:47+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:10:47+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.30 (1m), 0.37 (5m), 0.19 (15m)
+CPU: 7.4%
+RAM: 50.0%
+Disk: 97.0%
+[2025-11-08T21:10:47+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:10:47+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:10:48+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:10:48+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:10:48+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:10:48+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:10:48+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:10:48+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:10:48+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:11:17+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:11:17+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:11:17+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.18 (1m), 0.34 (5m), 0.18 (15m)
+CPU: 8.1%
+RAM: 51.0%
+Disk: 97.0%
+[2025-11-08T21:11:17+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:11:17+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:11:18+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:11:18+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:11:18+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:11:18+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:11:18+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:11:18+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:11:18+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:11:47+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:11:47+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:11:47+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.11 (1m), 0.31 (5m), 0.17 (15m)
+CPU: 7.3%
+RAM: 50.0%
+Disk: 97.0%
+[2025-11-08T21:11:47+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:11:47+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:11:48+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:11:48+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:11:48+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:11:48+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:11:48+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:11:48+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:11:48+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:12:17+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:12:17+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:12:17+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.07 (1m), 0.28 (5m), 0.17 (15m)
+CPU: 12.8%
+RAM: 50.0%
+Disk: 97.0%
+[2025-11-08T21:12:17+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:12:17+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:12:18+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:12:18+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:12:18+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:12:18+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:12:18+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:12:18+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:12:18+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:12:47+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:12:47+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:12:47+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.04 (1m), 0.25 (5m), 0.16 (15m)
+CPU: 15.2%
+RAM: 50.0%
+Disk: 97.0%
+[2025-11-08T21:12:47+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:12:47+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:12:48+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:12:48+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:12:48+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:12:48+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:12:48+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:12:48+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:12:48+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:13:17+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:13:17+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:13:17+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.29 (1m), 0.29 (5m), 0.18 (15m)
+CPU: 9.1%
+RAM: 50.0%
+Disk: 97.0%
+[2025-11-08T21:13:18+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:13:18+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:13:18+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:13:18+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:13:18+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:13:18+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:13:18+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:13:18+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:13:18+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:13:47+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:13:47+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:13:47+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.17 (1m), 0.26 (5m), 0.17 (15m)
+CPU: 19.4%
+RAM: 50.0%
+Disk: 97.0%
+[2025-11-08T21:13:47+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:13:47+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:13:47+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:13:48+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:13:48+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:13:48+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:13:48+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:13:48+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:13:48+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:14:17+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:14:17+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:14:17+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.38 (1m), 0.30 (5m), 0.19 (15m)
+CPU: 31.3%
+RAM: 48.0%
+Disk: 97.0%
+[2025-11-08T21:14:17+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:14:17+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:14:18+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:14:18+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:14:18+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:14:18+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:14:18+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:14:18+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:14:18+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:14:47+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:14:47+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:14:47+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.23 (1m), 0.27 (5m), 0.18 (15m)
+CPU: 32.3%
+RAM: 49.0%
+Disk: 97.0%
+[2025-11-08T21:14:47+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:14:47+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:14:48+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:14:48+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:14:48+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:14:48+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:14:48+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:14:48+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:14:48+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:15:17+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:15:17+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:15:17+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.24 (1m), 0.28 (5m), 0.19 (15m)
+CPU: 36.6%
+RAM: 49.0%
+Disk: 97.0%
+[2025-11-08T21:15:18+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:15:18+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:15:18+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:15:18+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:15:19+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:15:19+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:15:19+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:15:19+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:15:19+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:15:47+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:15:47+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:15:47+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.15 (1m), 0.25 (5m), 0.18 (15m)
+CPU: 29.2%
+RAM: 47.0%
+Disk: 97.0%
+[2025-11-08T21:15:47+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:15:47+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:15:48+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:15:48+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:15:48+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:15:48+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:15:48+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:15:48+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:15:48+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:16:17+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:16:17+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:16:17+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.09 (1m), 0.23 (5m), 0.18 (15m)
+CPU: 30.0%
+RAM: 48.0%
+Disk: 97.0%
+[2025-11-08T21:16:17+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:16:17+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:16:18+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:16:18+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:16:18+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:16:18+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:16:18+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:16:18+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:16:18+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:16:47+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:16:47+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:16:47+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.05 (1m), 0.21 (5m), 0.17 (15m)
+CPU: 27.4%
+RAM: 47.0%
+Disk: 97.0%
+[2025-11-08T21:16:47+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:16:47+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:16:47+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:16:47+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:16:48+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:16:48+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:16:48+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:16:48+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:16:48+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:17:17+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:17:17+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:17:17+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.03 (1m), 0.19 (5m), 0.17 (15m)
+CPU: 36.0%
+RAM: 48.0%
+Disk: 97.0%
+[2025-11-08T21:17:17+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:17:17+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:17:18+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:17:18+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:17:18+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:17:18+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:17:18+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:17:18+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:17:18+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:17:47+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:17:47+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:17:47+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.13 (1m), 0.20 (5m), 0.17 (15m)
+CPU: 34.5%
+RAM: 48.0%
+Disk: 97.0%
+[2025-11-08T21:17:47+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:17:47+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:17:48+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:17:48+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:17:48+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:17:48+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:17:48+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:17:48+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:17:48+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:18:17+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:18:17+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:18:17+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.34 (1m), 0.26 (5m), 0.19 (15m)
+CPU: 28.2%
+RAM: 48.0%
+Disk: 97.0%
+[2025-11-08T21:18:17+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:18:17+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:18:17+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:18:17+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:18:18+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:18:18+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:18:18+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:18:18+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:18:18+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:18:47+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:18:47+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:18:47+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.21 (1m), 0.23 (5m), 0.19 (15m)
+CPU: 28.3%
+RAM: 48.0%
+Disk: 97.0%
+[2025-11-08T21:18:47+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:18:47+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:18:47+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:18:47+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:18:48+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:18:48+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:18:48+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:18:48+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:18:48+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:19:17+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:19:17+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:19:17+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 1.00 (1m), 0.39 (5m), 0.24 (15m)
+CPU: 36.3%
+RAM: 48.0%
+Disk: 97.0%
+[2025-11-08T21:19:17+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:19:17+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:19:18+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:19:18+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:19:18+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:19:18+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:19:18+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:19:18+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:19:18+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
+[2025-11-08T21:19:47+03:30] Command execution error: uptime [-p] (exec: "uptime": executable file not found in %PATH%)
+[2025-11-08T21:19:47+03:30] Warning: Uptime command failed (may not be available on Windows): exec: "uptime": executable file not found in %PATH%
+[2025-11-08T21:19:47+03:30] *Server Status*
+Uptime: N/A (Win)
+Load Avg: 0.61 (1m), 0.35 (5m), 0.23 (15m)
+CPU: 35.0%
+RAM: 49.0%
+Disk: 97.0%
+[2025-11-08T21:19:47+03:30] Command execution error: systemctl [is-active nginx] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:19:47+03:30] Error checking service nginx (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:19:47+03:30] Command execution error: systemctl [is-active ssh] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:19:47+03:30] Error checking service ssh (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:19:48+03:30] Command execution error: systemctl [is-active mysql] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:19:48+03:30] Error checking service mysql (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:19:48+03:30] Command execution error: systemctl [is-active docker] (exec: "systemctl": executable file not found in %PATH%)
+[2025-11-08T21:19:48+03:30] Error checking service docker (systemctl): exec: "systemctl": executable file not found in %PATH%
+[2025-11-08T21:19:48+03:30] Port 127.0.0.1:22 check failed: dial tcp 127.0.0.1:22: connectex: No connection could be made because the target machine actively refused it.
