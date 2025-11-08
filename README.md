@@ -81,10 +81,15 @@ pkill server-monitor
 cd ..
 rm -rf telegram-monitor
 rm -f servmon.log
-echo "🗑️ Server Monitor به صورت کامل حذف شد!"## 📞 ارتباط با ما و جامعه کاربری
+echo "🗑️ Server Monitor
+
+
+## 📞 ارتباط با ما و جامعه کاربری
 
 ما همیشه آماده پاسخگویی به سوالات و شنیدن پیشنهادات شما هستیم.  
 
 - **گروه پشتیبانی تلگرام:** [VPNMarket Official Support](https://t.me/VPNMarket_OfficialSupport/1)  
 - **کانال یوتوب:** [Iraneclips YouTube](https://www.youtube.com/@iraneclips8168)  
 - **گیت‌هاب پروژه:** [Telegram Server Monitor](https://github.com/arvinvahed/Telegram-Server-Monitor)
+
+  
