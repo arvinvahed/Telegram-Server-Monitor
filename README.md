@@ -62,7 +62,6 @@ NightLink ابزاری است که مانیتورینگ و مدیریت سرور
 mkdir NightLink-Monitor
 cd NightLink-Monitor
 wget https://github.com/arvinvahed/Telegram-Server-Monitor/releases/download/v1.0.0/server-monitor -O server-monitor
-
 chmod +x server-monitor
 مرحله ۲: اتصال به تلگرام
 bash
