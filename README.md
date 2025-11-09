@@ -69,14 +69,12 @@ Copy code
 export TELEGRAM_BOT_TOKEN="Your_Bot_Token_Here"
 export TELEGRAM_CHAT_ID="Your_Chat_ID_Here"
 مرحله ۳: اجرای نهایی و دائمی
-bash
-Copy code
+ 
 screen -S NightLink_Monitor
 ./server-monitor
 # خروج از Screen بدون توقف برنامه: Ctrl+A سپس D
 توقف و پاکسازی کامل
-bash
-Copy code
+ 
 # توقف موقت
 pkill server-monitor
 
